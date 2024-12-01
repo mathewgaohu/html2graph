@@ -1,0 +1,13 @@
+Original scores on test samples.
+Accuracy:  0.8800
+Precision: 0.8900
+Recall:    0.8800
+F1 score:  0.8792
+AUC:       0.8800
+
+New scores on test samples.
+Accuracy:  0.8762
+Precision: 0.8872
+Recall:    0.8762
+F1 score:  0.8754
+AUC:       0.8763
